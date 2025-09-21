@@ -11,7 +11,7 @@ By analyzing the Telco dataset, the project demonstrates how **Machine Learning 
 ## 📌 Project Overview  
 - Performed **data cleaning, preprocessing, and feature engineering**.  
 - Applied **exploratory data analysis (EDA)** with visualizations.  
-- Built and compared classification models:
+- Built and compared classification models such as
   - Logistic Regression  
   - Decision Tree  
   - Random Forest  
